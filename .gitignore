@@ -351,3 +351,5 @@ MigrationBackup/
 .DS_Store
 
 src/TravelMonkey/ApiKeys.cs
+
+src/TravelMonkey.Android/Resources/Resource.designer.cs

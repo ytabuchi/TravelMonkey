@@ -128,6 +128,7 @@
     <BundleResource Include="Resources\nl.png" />
     <BundleResource Include="Resources\es.png" />
     <BundleResource Include="Resources\TravelMonkey.png" />
+    <BundleResource Include="Resources\ja.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Effects\" />
